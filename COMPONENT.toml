@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-sockets"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-sockets component"
+description = "systemd sockets"
 upstream = []
 
 [contract]
